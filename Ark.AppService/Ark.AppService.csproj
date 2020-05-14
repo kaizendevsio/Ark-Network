@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Sendgrid" Version="9.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ark.Entities\Ark.Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Ark.DataAccessLayer">
+      <HintPath>..\Extension Files\Ark.DataAccessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="Ark.IntegrityService">
+      <HintPath>..\Extension Files\Ark.IntegrityService.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
