@@ -48,3 +48,12 @@ C:\Projects\Net Core\Ark\Ark.ExternalUtilities\obj\Debug\netcoreapp3.0\Ark.Exter
 C:\Projects\Net Core\Ark\Ark.ExternalUtilities\obj\Debug\netcoreapp3.0\Ark.ExternalUtilities.AssemblyInfo.cs
 C:\Projects\Net Core\Ark\Ark.ExternalUtilities\obj\Debug\netcoreapp3.0\Ark.ExternalUtilities.dll
 C:\Projects\Net Core\Ark\Ark.ExternalUtilities\obj\Debug\netcoreapp3.0\Ark.ExternalUtilities.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.ExternalUtilities\bin\Debug\netcoreapp3.0\Ark.ExternalUtilities.deps.json
+C:\Users\2018\Desktop\Ark-Network\Ark.ExternalUtilities\bin\Debug\netcoreapp3.0\Ark.ExternalUtilities.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.ExternalUtilities\bin\Debug\netcoreapp3.0\Ark.ExternalUtilities.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.ExternalUtilities\obj\Debug\netcoreapp3.0\Ark.ExternalUtilities.csprojAssemblyReference.cache
+C:\Users\2018\Desktop\Ark-Network\Ark.ExternalUtilities\obj\Debug\netcoreapp3.0\Ark.ExternalUtilities.csproj.CoreCompileInputs.cache
+C:\Users\2018\Desktop\Ark-Network\Ark.ExternalUtilities\obj\Debug\netcoreapp3.0\Ark.ExternalUtilities.AssemblyInfoInputs.cache
+C:\Users\2018\Desktop\Ark-Network\Ark.ExternalUtilities\obj\Debug\netcoreapp3.0\Ark.ExternalUtilities.AssemblyInfo.cs
+C:\Users\2018\Desktop\Ark-Network\Ark.ExternalUtilities\obj\Debug\netcoreapp3.0\Ark.ExternalUtilities.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.ExternalUtilities\obj\Debug\netcoreapp3.0\Ark.ExternalUtilities.pdb

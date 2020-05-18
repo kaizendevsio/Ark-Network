@@ -7532,25 +7532,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Xeon\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\2018\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Net Core\\Ark\\Ark.ExternalUtilities\\Ark.ExternalUtilities.csproj",
+      "projectUniqueName": "C:\\Users\\2018\\Desktop\\Ark-Network\\Ark.ExternalUtilities\\Ark.ExternalUtilities.csproj",
       "projectName": "Ark.ExternalUtilities",
-      "projectPath": "C:\\Projects\\Net Core\\Ark\\Ark.ExternalUtilities\\Ark.ExternalUtilities.csproj",
-      "packagesPath": "C:\\Users\\Xeon\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Net Core\\Ark\\Ark.ExternalUtilities\\obj\\",
+      "projectPath": "C:\\Users\\2018\\Desktop\\Ark-Network\\Ark.ExternalUtilities\\Ark.ExternalUtilities.csproj",
+      "packagesPath": "C:\\Users\\2018\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\2018\\Desktop\\Ark-Network\\Ark.ExternalUtilities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Xeon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\2018\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -7607,7 +7602,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

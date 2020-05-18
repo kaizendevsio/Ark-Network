@@ -2072,6 +2072,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Ark.IntegrityService/1.0.0.0": {
+        "runtime": {
+          "Ark.IntegrityService.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -3245,6 +3253,11 @@
       "sha512": ""
     },
     "Ark.DataAccessLayer/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ark.IntegrityService/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

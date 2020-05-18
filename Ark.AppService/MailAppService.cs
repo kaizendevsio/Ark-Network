@@ -78,6 +78,20 @@ namespace Ark.AppService
 
                     mail.Subject = "Action Required: Confirm Email Address";
                     break;
+
+                case EmailType.PasswordReset:
+
+                    using (StreamReader reader = new StreamReader("./Resources/Templates/Email/email-forgot-password.html"))
+                    {
+                        mail.Body = reader.ReadToEnd();
+                        mail.Body = mail.Body.Replace("[ShopUserId]", userBO.ShopUserId.ToString());
+                        mail.Body = mail.Body.Replace("[ApiURL]", appUrl);
+
+                    }
+
+                    mail.Subject = "Action Required: Confirm Email Address";
+
+                    break;
                 default:
                     break;
             }

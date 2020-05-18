@@ -9,6 +9,7 @@ namespace Ark.Entities.Enums
     {
         EmailConfirmation = 0,
         AccountRegistration = 1,
-        PackagePurchaseConfirmation = 2
+        PackagePurchaseConfirmation = 2,
+        PasswordReset = 3
     }
 }

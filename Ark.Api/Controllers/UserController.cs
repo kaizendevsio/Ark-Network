@@ -142,6 +142,31 @@ namespace Ark.Api.Controllers
             return Ok(_apiResponse);
         }
 
+        [HttpPost("SendResetLinkEmail")]
+        public ActionResult SendResetLinkEmail([FromBody] UserBO userBO)
+        {
+            ApiResponseBO _apiResponse = new ApiResponseBO();
+            MailAppService mailAppService = new MailAppService();
+            SessionController sessionController = new SessionController();
+            try
+            {
+                string appUrl = sessionController.ApiUriInit(Env).AbsoluteUri;
+                bool response = mailAppService.SendSmtp(userBO, EmailType.PasswordReset, appUrl);
+
+                _apiResponse.HttpStatusCode = "200";
+                _apiResponse.Message = "User successfully updated";
+                _apiResponse.Status = "Success";
+            }
+            catch (Exception ex)
+            {
+                _apiResponse.HttpStatusCode = "500";
+                _apiResponse.Message = ex.InnerException.Message;
+                _apiResponse.Status = "Error";
+            }
+
+            return Ok(_apiResponse);
+        }
+
         [HttpPost("AuthStatusChange")]
         public ActionResult AuthStatusChange([FromBody] UserBO userBO)
         {

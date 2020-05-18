@@ -80,3 +80,18 @@ C:\Projects\Net Core\Ark\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.cspro
 C:\Projects\Net Core\Ark\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.dll
 C:\Projects\Net Core\Ark\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.pdb
 C:\Projects\Net Core\Ark\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.genruntimeconfig.cache
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\bin\Debug\netcoreapp3.0\Ark.Entities.deps.json
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\bin\Debug\netcoreapp3.0\Ark.Entities.runtimeconfig.json
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\bin\Debug\netcoreapp3.0\Ark.Entities.runtimeconfig.dev.json
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\bin\Debug\netcoreapp3.0\Ark.Entities.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\bin\Debug\netcoreapp3.0\Ark.Entities.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\bin\Debug\netcoreapp3.0\Ark.ExternalUtilities.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\bin\Debug\netcoreapp3.0\Ark.ExternalUtilities.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.csprojAssemblyReference.cache
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.csproj.CoreCompileInputs.cache
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.AssemblyInfoInputs.cache
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.AssemblyInfo.cs
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.csproj.CopyComplete
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.Entities\obj\Debug\netcoreapp3.0\Ark.Entities.genruntimeconfig.cache

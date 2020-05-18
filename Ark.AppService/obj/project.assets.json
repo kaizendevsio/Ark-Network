@@ -8092,25 +8092,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Xeon\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\2018\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Net Core\\Ark\\Ark.AppService\\Ark.AppService.csproj",
+      "projectUniqueName": "C:\\Users\\2018\\Desktop\\Ark-Network\\Ark.AppService\\Ark.AppService.csproj",
       "projectName": "Ark.AppService",
-      "projectPath": "C:\\Projects\\Net Core\\Ark\\Ark.AppService\\Ark.AppService.csproj",
-      "packagesPath": "C:\\Users\\Xeon\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Net Core\\Ark\\Ark.AppService\\obj\\",
+      "projectPath": "C:\\Users\\2018\\Desktop\\Ark-Network\\Ark.AppService\\Ark.AppService.csproj",
+      "packagesPath": "C:\\Users\\2018\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\2018\\Desktop\\Ark-Network\\Ark.AppService\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Xeon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\2018\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -8122,8 +8117,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Projects\\Net Core\\Ark\\Ark.Entities\\Ark.Entities.csproj": {
-              "projectPath": "C:\\Projects\\Net Core\\Ark\\Ark.Entities\\Ark.Entities.csproj"
+            "C:\\Users\\2018\\Desktop\\Ark-Network\\Ark.Entities\\Ark.Entities.csproj": {
+              "projectPath": "C:\\Users\\2018\\Desktop\\Ark-Network\\Ark.Entities\\Ark.Entities.csproj"
             }
           }
         }
@@ -8171,7 +8166,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

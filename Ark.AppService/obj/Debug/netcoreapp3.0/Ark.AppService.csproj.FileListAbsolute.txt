@@ -94,3 +94,21 @@ C:\Projects\Net Core\Ark\Ark.AppService\obj\Debug\netcoreapp3.0\Ark.AppService.d
 C:\Projects\Net Core\Ark\Ark.AppService\obj\Debug\netcoreapp3.0\Ark.AppService.pdb
 C:\Projects\Net Core\Ark\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.IntegrityService.dll
 C:\Projects\Net Core\Ark\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.IntegrityService.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.AppService.deps.json
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.AppService.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.AppService.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.DataAccessLayer.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.Entities.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.ExternalUtilities.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.IntegrityService.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.Entities.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.ExternalUtilities.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.DataAccessLayer.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\bin\Debug\netcoreapp3.0\Ark.IntegrityService.pdb
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\obj\Debug\netcoreapp3.0\Ark.AppService.csprojAssemblyReference.cache
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\obj\Debug\netcoreapp3.0\Ark.AppService.csproj.CoreCompileInputs.cache
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\obj\Debug\netcoreapp3.0\Ark.AppService.AssemblyInfoInputs.cache
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\obj\Debug\netcoreapp3.0\Ark.AppService.AssemblyInfo.cs
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\obj\Debug\netcoreapp3.0\Ark.AppService.csproj.CopyComplete
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\obj\Debug\netcoreapp3.0\Ark.AppService.dll
+C:\Users\2018\Desktop\Ark-Network\Ark.AppService\obj\Debug\netcoreapp3.0\Ark.AppService.pdb
